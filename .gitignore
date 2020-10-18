@@ -1,0 +1,11 @@
+Library/
+Temp/
+obj/
+Obj/
+Log/
+.vs/
+obj/
+*.csproj
+*.sln
+sqlite3.dll
+.vscode/settings.json
